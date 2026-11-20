@@ -2,6 +2,10 @@
 
 A personal portfolio introduction section built with HTML and CSS. This project represents one of my early front-end development exercises as I continue learning how to design and build websites.
 
+## Live Demo
+
+[View Live Website](https://olajideboluwaji.github.io/portfolio-Intro-section/)
+
 ## Overview
 
 This project focuses on creating a personal introduction section for a portfolio website, combining HTML structure with CSS styling.
