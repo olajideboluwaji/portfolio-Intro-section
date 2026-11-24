@@ -24,7 +24,9 @@ This project focuses on creating a personal introduction section for a portfolio
 
 ## Project Preview
 
+![Portfolio Preview](assets/portfolio-preview.png)
 This section serves as an introduction to my personal portfolio and my journey into front-end web development.
+
 
 ## Author
 
